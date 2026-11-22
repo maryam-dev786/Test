@@ -15,7 +15,7 @@ public class Employeebug {
         // Calculate average salary
         double average = (double) total / hours.length;
 
-        // Display results
+        // Display results 
         System.out.println("Total salary: " + total);
         System.out.println("Average salary: " + average);
     }
